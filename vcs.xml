@@ -130,6 +130,10 @@
           <option name="url" value="http://10.185.176.109:3690/gerpadm/core.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerpadm/core_batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\mywork" />
