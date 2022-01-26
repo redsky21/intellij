@@ -138,6 +138,10 @@
           <option name="url" value="http://10.185.176.109:3690/gerp/esp_b2b/lge_esp_b2b_batch.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerp/esp_ccm/lge_esp_ccm_batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\mywork" />
