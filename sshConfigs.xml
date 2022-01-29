@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="dev-was1-nep-cmn.lge.com" id="77e8c4a6-1b54-431c-8e07-cdf579bb4a30" port="22" customName="Dev-Was-공통" nameFormat="CUSTOM" username="appadm">
+      <sshConfig authType="PASSWORD" host="dev-was1-nep-cmn.lge.com" id="77e8c4a6-1b54-431c-8e07-cdf579bb4a30" port="22" customName="Dev-Was-공통" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
         <option name="customName" value="Dev-Was-공통" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="dev-was1-nep-mfg.lge.com" id="9ddb944d-e760-4900-abaf-cf624f9a95ea" port="22" customName="Dev-Was-생산" nameFormat="CUSTOM" username="appadm">
