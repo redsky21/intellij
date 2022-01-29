@@ -97,6 +97,7 @@
       <sshConfig authType="PASSWORD" host="redsky21.duckdns.org" id="0dc57c2b-95a6-4e7b-a7de-9eb47b6d5949" port="22" customName="redsky21" nameFormat="CUSTOM" username="redsky21">
         <option name="customName" value="redsky21" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="dev-was1-nep-sal.lge.com" id="bd6a2fbc-263a-44ca-a3a5-ad04dc85c52f" port="22" nameFormat="DESCRIPTIVE" username="appadm" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
