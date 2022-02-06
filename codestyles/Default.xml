@@ -1,1 +1,14 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <H2CodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
+  </H2CodeStyleSettings>
+  <H2CodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
+  </H2CodeStyleSettings>
+  <MySQLCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
+  </MySQLCodeStyleSettings>
+  <SqlCodeStyleSettings version="6">
+    <option name="DISABLE_FORMATTING" value="true" />
+  </SqlCodeStyleSettings>
+</code_scheme>
