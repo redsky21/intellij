@@ -19,82 +19,82 @@
       <sshConfig authType="PASSWORD" host="dev-web1-nep-fin.lge.com" id="31ff39c5-59af-4fad-8450-f412c7f2a484" port="22" customName="Dev-Web-재경" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="Dev-Web-재경" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="qa-was1-nep-cmn.lge.com" id="efe6cf42-6253-41ad-80e1-0e789adfa697" port="22" customName="QA-Was-공통1" nameFormat="CUSTOM" username="appadm">
+      <sshConfig authType="PASSWORD" host="qa-was1-nep-cmn.lge.com" id="efe6cf42-6253-41ad-80e1-0e789adfa697" port="22" customName="QA-Was-공통1" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
         <option name="customName" value="QA-Was-공통1" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="qa-was2-nep-cmn.lge.com" id="34213bf4-2cca-41b3-aa8d-0bd909cd50ac" port="22" customName="QA-Was-공통2" nameFormat="CUSTOM" username="appadm">
+      <sshConfig authType="PASSWORD" host="qa-was2-nep-cmn.lge.com" id="34213bf4-2cca-41b3-aa8d-0bd909cd50ac" port="22" customName="QA-Was-공통2" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
         <option name="customName" value="QA-Was-공통2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="qa-was1-nep-mfg.lge.com" id="47eeaa94-57b5-4bed-9dc1-93ff3183a381" port="22" customName="QA-Was-생산1" nameFormat="CUSTOM" username="appadm">
+      <sshConfig authType="PASSWORD" host="qa-was1-nep-mfg.lge.com" id="47eeaa94-57b5-4bed-9dc1-93ff3183a381" port="22" customName="QA-Was-생산1" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
         <option name="customName" value="QA-Was-생산1" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="qa-was2-nep-mfg.lge.com" id="258f3312-2f9a-421f-a762-8859d33af734" port="22" customName="QA-Was-생산2" nameFormat="CUSTOM" username="appadm">
+      <sshConfig authType="PASSWORD" host="qa-was2-nep-mfg.lge.com" id="258f3312-2f9a-421f-a762-8859d33af734" port="22" customName="QA-Was-생산2" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
         <option name="customName" value="QA-Was-생산2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="qa-was1-nep-fin.lge.com" id="4b0c16cc-4f24-4e56-8c7c-410231b19dff" port="22" customName="QA-Was-재경1" nameFormat="CUSTOM" username="appadm">
+      <sshConfig authType="PASSWORD" host="qa-was1-nep-fin.lge.com" id="4b0c16cc-4f24-4e56-8c7c-410231b19dff" port="22" customName="QA-Was-재경1" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
         <option name="customName" value="QA-Was-재경1" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="qa-was2-nep-fin.lge.com" id="c15f765c-f6a7-44f8-a019-e2d3d5039bf6" port="22" customName="QA-Was-재경2" nameFormat="CUSTOM" username="appadm">
+      <sshConfig authType="PASSWORD" host="qa-was2-nep-fin.lge.com" id="c15f765c-f6a7-44f8-a019-e2d3d5039bf6" port="22" customName="QA-Was-재경2" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
         <option name="customName" value="QA-Was-재경2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="qa-web1-nep-cmn.lge.com" id="37e541f1-210c-45aa-8f37-cb1666ff2c19" port="22" customName="QA-Web-공통1" nameFormat="CUSTOM" username="sysops01">
+      <sshConfig authType="PASSWORD" host="qa-web1-nep-cmn.lge.com" id="37e541f1-210c-45aa-8f37-cb1666ff2c19" port="22" customName="QA-Web-공통1" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="QA-Web-공통1" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="qa-web2-nep-cmn.lge.com" id="a4d95edc-8b73-4e9a-8e16-58c2b5779a91" port="22" customName="QA-Web-공통2" nameFormat="CUSTOM" username="sysops01">
+      <sshConfig authType="PASSWORD" host="qa-web2-nep-cmn.lge.com" id="a4d95edc-8b73-4e9a-8e16-58c2b5779a91" port="22" customName="QA-Web-공통2" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="QA-Web-공통2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="qa-web1-nep-mfg.lge.com" id="a7d2308d-cb45-4fb4-8426-72e4517152e0" port="22" customName="QA-Web-생산1" nameFormat="CUSTOM" username="sysops01">
+      <sshConfig authType="PASSWORD" host="qa-web1-nep-mfg.lge.com" id="a7d2308d-cb45-4fb4-8426-72e4517152e0" port="22" customName="QA-Web-생산1" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="QA-Web-생산1" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="qa-web2-nep-mfg.lge.com" id="998edb53-3b40-44ba-9938-3ce355d41cda" port="22" customName="QA-Web-생산2" nameFormat="CUSTOM" username="sysops01">
+      <sshConfig authType="PASSWORD" host="qa-web2-nep-mfg.lge.com" id="998edb53-3b40-44ba-9938-3ce355d41cda" port="22" customName="QA-Web-생산2" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="QA-Web-생산2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="qa-web1-nep-fin.lge.com" id="a8740714-8fef-4a35-ac16-7a55c099720f" port="22" customName="QA-Web-재경1" nameFormat="CUSTOM" username="sysops01">
+      <sshConfig authType="PASSWORD" host="qa-web1-nep-fin.lge.com" id="a8740714-8fef-4a35-ac16-7a55c099720f" port="22" customName="QA-Web-재경1" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="QA-Web-재경1" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="qa-web2-nep-fin.lge.com" id="cdd1072e-8c7d-4430-b6fb-0fe3ce52237a" port="22" customName="QA-Web-재경2" nameFormat="CUSTOM" username="sysops01">
+      <sshConfig authType="PASSWORD" host="qa-web2-nep-fin.lge.com" id="cdd1072e-8c7d-4430-b6fb-0fe3ce52237a" port="22" customName="QA-Web-재경2" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="QA-Web-재경2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="prod-web2-nep-cmn.lge.com" id="02312d9c-4212-4214-a77d-478518bd19eb" port="22" customName="Prod-Web-공통2" nameFormat="CUSTOM" username="sysops01">
+      <sshConfig authType="PASSWORD" host="prod-web2-nep-cmn.lge.com" id="02312d9c-4212-4214-a77d-478518bd19eb" port="22" customName="Prod-Web-공통2" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="Prod-Web-공통2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="prod-web1-nep-cmn.lge.com" id="905aae70-6b7e-4e76-846f-52e1ab8edd2c" port="22" customName="Prod-Web-공통1" nameFormat="CUSTOM" username="sysops01">
+      <sshConfig authType="PASSWORD" host="prod-web1-nep-cmn.lge.com" id="905aae70-6b7e-4e76-846f-52e1ab8edd2c" port="22" customName="Prod-Web-공통1" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="Prod-Web-공통1" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="prod-web1-nep-mfg.lge.com" id="864d5d23-504f-4a7d-82cf-921355088a28" port="22" customName="Prod-Web-생산1" nameFormat="CUSTOM" username="sysops01">
+      <sshConfig authType="PASSWORD" host="prod-web1-nep-mfg.lge.com" id="864d5d23-504f-4a7d-82cf-921355088a28" port="22" customName="Prod-Web-생산1" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="Prod-Web-생산1" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="prod-web2-nep-mfg.lge.com" id="37f997ef-bb1c-4a93-b5a6-09813735273c" port="22" customName="Prod-Web-생산2" nameFormat="CUSTOM" username="sysops01">
+      <sshConfig authType="PASSWORD" host="prod-web2-nep-mfg.lge.com" id="37f997ef-bb1c-4a93-b5a6-09813735273c" port="22" customName="Prod-Web-생산2" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="Prod-Web-생산2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="prod-web1-nep-fin.lge.com" id="d722fa87-5d83-4557-bbcd-04d4c671d8bc" port="22" customName="Prod-Web-재경1" nameFormat="CUSTOM" username="sysops01">
+      <sshConfig authType="PASSWORD" host="prod-web1-nep-fin.lge.com" id="d722fa87-5d83-4557-bbcd-04d4c671d8bc" port="22" customName="Prod-Web-재경1" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="Prod-Web-재경1" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="prod-web2-nep-fin.lge.com" id="606c90cb-bef2-4475-9ee9-7c8270b714fe" port="22" customName="Prod-Web-재경2" nameFormat="CUSTOM" username="sysops01">
+      <sshConfig authType="PASSWORD" host="prod-web2-nep-fin.lge.com" id="606c90cb-bef2-4475-9ee9-7c8270b714fe" port="22" customName="Prod-Web-재경2" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="Prod-Web-재경2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="prod-was1-nep-cmn.lge.com" id="ba31b64b-6873-422f-9c57-273723ea8842" port="22" customName="Prod-Was-공통1" nameFormat="CUSTOM" username="appadm">
+      <sshConfig authType="PASSWORD" host="prod-was1-nep-cmn.lge.com" id="ba31b64b-6873-422f-9c57-273723ea8842" port="22" customName="Prod-Was-공통1" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
         <option name="customName" value="Prod-Was-공통1" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="prod-was2-nep-cmn.lge.com" id="48ce72ab-ba80-4831-a8e6-4dd906512a48" port="22" customName="Prod-Was-공통2" nameFormat="CUSTOM" username="appadm">
+      <sshConfig authType="PASSWORD" host="prod-was2-nep-cmn.lge.com" id="48ce72ab-ba80-4831-a8e6-4dd906512a48" port="22" customName="Prod-Was-공통2" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
         <option name="customName" value="Prod-Was-공통2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="prod-was1-nep-mfg.lge.com" id="290aa10e-190d-498b-96e6-1bc18565b915" port="22" customName="Prod-Was-생산1" nameFormat="CUSTOM" username="appadm">
+      <sshConfig authType="PASSWORD" host="prod-was1-nep-mfg.lge.com" id="290aa10e-190d-498b-96e6-1bc18565b915" port="22" customName="Prod-Was-생산1" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
         <option name="customName" value="Prod-Was-생산1" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="prod-was2-nep-mfg.lge.com" id="e83760de-a68b-49b4-8a7c-2bde057e26ae" port="22" customName="Prod-Was-생산2" nameFormat="CUSTOM" username="appadm">
+      <sshConfig authType="PASSWORD" host="prod-was2-nep-mfg.lge.com" id="e83760de-a68b-49b4-8a7c-2bde057e26ae" port="22" customName="Prod-Was-생산2" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
         <option name="customName" value="Prod-Was-생산2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="prod-was1-nep-fin.lge.com" id="43e37dcf-f27d-4655-acb7-5ed7c89f940a" port="22" customName="Prod-Was-재경1" nameFormat="CUSTOM" username="appadm">
+      <sshConfig authType="PASSWORD" host="prod-was1-nep-fin.lge.com" id="43e37dcf-f27d-4655-acb7-5ed7c89f940a" port="22" customName="Prod-Was-재경1" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
         <option name="customName" value="Prod-Was-재경1" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="prod-was2-nep-fin.lge.com" id="dad38e95-f3cd-41a9-af0e-ce663ef978d3" port="22" customName="Prod-Was-재경2" nameFormat="CUSTOM" username="appadm">
+      <sshConfig authType="PASSWORD" host="prod-was2-nep-fin.lge.com" id="dad38e95-f3cd-41a9-af0e-ce663ef978d3" port="22" customName="Prod-Was-재경2" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
         <option name="customName" value="Prod-Was-재경2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="prod-redis1-nep.lge.com" id="56dd9063-301e-4ef0-83bd-c3d81e1583fd" port="22" customName="Prod-Redis-1" nameFormat="CUSTOM" username="sysops01">
+      <sshConfig authType="PASSWORD" host="prod-redis1-nep.lge.com" id="56dd9063-301e-4ef0-83bd-c3d81e1583fd" port="22" customName="Prod-Redis-1" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="Prod-Redis-1" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="redsky21.duckdns.org" id="0dc57c2b-95a6-4e7b-a7de-9eb47b6d5949" port="22" customName="redsky21" nameFormat="CUSTOM" username="redsky21">
+      <sshConfig authType="PASSWORD" host="redsky21.duckdns.org" id="0dc57c2b-95a6-4e7b-a7de-9eb47b6d5949" port="22" customName="redsky21" nameFormat="CUSTOM" username="redsky21" useOpenSSHConfig="true">
         <option name="customName" value="redsky21" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="dev-was1-nep-sal.lge.com" id="bd6a2fbc-263a-44ca-a3a5-ad04dc85c52f" port="22" nameFormat="DESCRIPTIVE" username="appadm" useOpenSSHConfig="true" />
