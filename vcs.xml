@@ -166,6 +166,10 @@
           <option name="url" value="http://10.185.176.109:3690/gerpadm/lge_esp_cmn_front.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerp/esp_cmn/lge_esp_cmn.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\mywork" />
