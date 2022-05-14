@@ -49,7 +49,7 @@
       <sshConfig authType="PASSWORD" host="qa-web2-nep-mfg.lge.com" id="998edb53-3b40-44ba-9938-3ce355d41cda" port="22" customName="QA-Web-생산2" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="QA-Web-생산2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="qa-web1-nep-fin.lge.com" id="a8740714-8fef-4a35-ac16-7a55c099720f" port="22" customName="QA-Web-재경1" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="qa-web1-nep-fin.lge.com" id="a8740714-8fef-4a35-ac16-7a55c099720f" port="22" customName="QA-Web-재경1" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="QA-Web-재경1" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="qa-web2-nep-fin.lge.com" id="cdd1072e-8c7d-4430-b6fb-0fe3ce52237a" port="22" customName="QA-Web-재경2" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
