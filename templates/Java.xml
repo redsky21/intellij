@@ -1,0 +1,21 @@
+<templateSet group="Java">
+  <template name="classComment" value="/**&#10;* &#10;* [Class 한글설명]&#10;* &lt;PRE&gt;&#10;* $package$&#10;* &lt;/PRE&gt;&#10;* &#10;* @Class  : $class$&#10;* @Author : Chae Hui Seung&#10;* @Date   : $date$ &#10;* &#10;* @History&#10;* &lt;PRE&gt;&#10;* -----------------------------------------------------------------------------&#10;* No    Date        Time        Author                   Desc&#10;* -----------------------------------------------------------------------------&#10;*  1    $date$  $time$   Chae Hui Seung           최초작성&#10;* &lt;/PRE&gt;&#10;*&#10;*&#10;* Copyright (C) by LGE. All rights reserved.&#10;*/" description="클래스주석" toReformat="false" toShortenFQNames="true">
+    <variable name="package" expression="" defaultValue="currentPackage()" alwaysStopAt="true" />
+    <variable name="class" expression="" defaultValue="fileName()" alwaysStopAt="true" />
+    <variable name="date" expression="" defaultValue="date(&quot;Y.MM.d&quot;)" alwaysStopAt="true" />
+    <variable name="time" expression="" defaultValue="time()" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="commentMethod" value="/**&#10; * [Method 한글설명]&#10; * &lt;PRE&gt;&#10; * &lt;/PRE&gt;&#10; * @MethodName  : $methodName$&#10; * @Author      : Chae Hui Seung&#10; * @ModifiedDate: $date$ $time$&#10; * @returnType  : $returnType$&#10;*/" description="메소드주석" toReformat="false" toShortenFQNames="true">
+    <variable name="methodName" expression="" defaultValue="methodName()" alwaysStopAt="true" />
+    <variable name="date" expression="" defaultValue="date(&quot;Y.MM.d&quot;)" alwaysStopAt="true" />
+    <variable name="time" expression="" defaultValue="time()" alwaysStopAt="true" />
+    <variable name="returnType" expression="" defaultValue="methodReturnType()" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="rtv" value="retrieve" description="retrieve" toReformat="false" toShortenFQNames="true" />
+</templateSet>

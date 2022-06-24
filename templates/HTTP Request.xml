@@ -1,0 +1,7 @@
+<templateSet group="HTTP Request">
+  <template name="osr" value="{&#10;    &quot;conditions&quot;: {&#10;        &quot;krGlobal&quot;: &quot;K&quot;,&#10;        &quot;remainFlag&quot;: &quot;N&quot;,&#10;        &quot;projectCode&quot;: &quot;KR16P08842140&quot;&#10;    },&#10;    &quot;meta&quot;: {&#10;        &quot;menuCode&quot;: &quot;BOF002001&quot;,&#10;        &quot;trxType&quot;: &quot;R&quot;&#10;    },&#10;    &quot;respDataSetInfo&quot;: [&#10;        {&#10;            &quot;soHeaderDetailDataset&quot;: {},&#10;            &quot;soLineDetailDataset&quot;: {}&#10;        }&#10;    ],&#10;    &quot;dataSets&quot;: [&#10;        {&#10;            &quot;soHeaderDetailDataset&quot;: []&#10;        },&#10;        {&#10;            &quot;soLineDetailDataset&quot;: []&#10;        },&#10;        {&#10;            &quot;chargeDataset&quot;: []&#10;        },&#10;        {&#10;            &quot;creditCardDataset&quot;: []&#10;        },&#10;        {&#10;            &quot;giftDivisionRateDataset&quot;: []&#10;        }&#10;    ]&#10;}" description="BOF 표준 request Body" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="REQUEST" value="true" />
+    </context>
+  </template>
+</templateSet>

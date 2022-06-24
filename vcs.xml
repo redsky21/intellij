@@ -1,5 +1,207 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690" />
+          <option name="userName" value="pig1" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerpadm/lge_esp_cmn_front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerpadm/lge_esp_iwm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerpadm/lge_esp_ccm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/X1257480/lge_esp_bat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerpadm/lge_esp_cmn_batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerpadm/lge_esp_front_ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerpadm/esp_common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerpadm/core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerp/esp_ccm/lge_esp_ccm_new.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerp/esp_ccm/lge_esp_ccm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerp/esp_cmn/lge_esp_cmn.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerp/esp_iwm/lge_esp_iwm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerp/esp_ccm/lge_esp_fin_front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerpadm/core_batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerp/esp_cmn/lge_esp_cmn_batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerp/esp_ccm/lge_esp_ccm_batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerp/esp_iwm/lge_esp_iwm_batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://ddarkchu@gitlab.amoeba.co.kr:3110/Publishing/lgcns_gerp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.amoeba.co.kr:3110" />
+          <option name="userName" value="woosonho" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerp/esp_iwm/lge_esp_mfg_front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.158.101:3690/gerpadm/amoeba_front_ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://woosonho@gitlab.amoeba.co.kr:3110/Publishing/lgcns_gerp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://cicd-nep.lge.com:3690" />
+          <option name="userName" value="pig1" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerp/esp_ccm/lge_esp_ccm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690" />
+          <option name="userName" value="pig1" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerp/esp_b2b/lge_esp_b2b.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/redsky21/boot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/redsky21/nyorder.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:redsky21/boot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@10.185.176.109:gerpadm/core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerpadm/core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerpadm/core_batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerp/esp_b2b/lge_esp_b2b_batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerp/esp_ccm/lge_esp_ccm_batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerp/esp_cmn/lge_esp_cmn_batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerpadm/lge_esp_front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/a68050/cns-ui2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/a68050/cns-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerp/esp_iwm/lge_esp_mfg_front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerpadm/lge_esp_cmn_front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerp/esp_cmn/lge_esp_cmn.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerp/esp_iwm/lge_esp_iwm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.185.176.109:3690/gerpadm/amoeba_front_ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\mywork" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Subject" />
+        <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+    <option name="CUSTOM_BOOLEAN_PROPERTIES">
+      <map>
+        <entry key="Change.Log.Filter.on.Branch.Selection" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  </component>
+  <component name="VcsEditorTab.Settings">
+    <option name="openInNewWindow" value="true" />
   </component>
 </application>
