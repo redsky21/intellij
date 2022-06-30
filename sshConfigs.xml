@@ -19,7 +19,7 @@
       <sshConfig authType="PASSWORD" host="dev-web1-nep-fin.lge.com" id="31ff39c5-59af-4fad-8450-f412c7f2a484" port="22" customName="Dev-Web-재경" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="Dev-Web-재경" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="qa-was1-nep-cmn.lge.com" id="efe6cf42-6253-41ad-80e1-0e789adfa697" port="22" customName="QA-Was-공통1" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
+      <sshConfig authType="PASSWORD" host="qa-was1-nep-cmn.lge.com" id="efe6cf42-6253-41ad-80e1-0e789adfa697" port="22" customName="QA-Was-공통1" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="QA-Was-공통1" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="qa-was2-nep-cmn.lge.com" id="34213bf4-2cca-41b3-aa8d-0bd909cd50ac" port="22" customName="QA-Was-공통2" nameFormat="CUSTOM" username="appadm" useOpenSSHConfig="true">
