@@ -24,6 +24,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.jetbrains.jax.ws">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.mallowigi">
           <value>
             <PluginData>
