@@ -95,7 +95,7 @@
       <sshConfig authType="PASSWORD" host="qa-web2-nep-fin.lge.com" id="cdd1072e-8c7d-4430-b6fb-0fe3ce52237a" port="22" customName="QA-Web-재경2" nameFormat="CUSTOM" username="sysops01" useOpenSSHConfig="true">
         <option name="customName" value="QA-Web-재경2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="redsky21.duckdns.org" id="0dc57c2b-95a6-4e7b-a7de-9eb47b6d5949" port="22" customName="redsky21" nameFormat="CUSTOM" username="redsky21" useOpenSSHConfig="true">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="redsky21.duckdns.org" id="0dc57c2b-95a6-4e7b-a7de-9eb47b6d5949" port="22" customName="redsky21" nameFormat="CUSTOM" username="redsky21" useOpenSSHConfig="true">
         <option name="customName" value="redsky21" />
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dev-was1-nep-sal.lge.com" id="b5e43395-132a-46a8-ace4-f5df1cbb3f7d" port="22" customName="midadm@dev-was1-nep-sal.lge.com:22" nameFormat="CUSTOM" username="midadm" useOpenSSHConfig="true">
