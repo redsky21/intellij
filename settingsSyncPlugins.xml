@@ -37,6 +37,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.guice">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.intellij.javaee.batch">
           <value>
             <PluginData>
