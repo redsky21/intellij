@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="hana">
+      <artifact id="SAP Hana" name="SAP Hana" use="true" version="2.7.9" />
+    </driver>
     <driver id="mariadb">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="3.0.7" />
     </driver>
