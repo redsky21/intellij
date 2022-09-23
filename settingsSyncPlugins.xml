@@ -37,6 +37,22 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.bigdatatools">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.ultimate" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.grpc">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.intellij.guice">
           <value>
             <PluginData />
@@ -139,6 +155,21 @@
                   <option value="com.intellij.modules.vcs" />
                 </set>
               </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.aj.cds">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.java" />
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
