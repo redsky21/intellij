@@ -243,11 +243,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/onjsdnjs/spring-batch-lecture.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://github.com/redsky21/hana-simple.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/SAP-samples/cloud-cap-samples-java" />
+          <option name="url" value="https://github.com/SAP-samples/cloud-cap-samples-java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
