@@ -36,14 +36,6 @@
       </value>
     </option>
   </AndroidXmlCodeStyleSettings>
-  <H2CodeStyleSettings version="6">
-    <option name="USE_GENERAL_STYLE" value="false" />
-    <option name="DISABLE_FORMATTING" value="true" />
-  </H2CodeStyleSettings>
-  <H2CodeStyleSettings version="6">
-    <option name="USE_GENERAL_STYLE" value="false" />
-    <option name="DISABLE_FORMATTING" value="true" />
-  </H2CodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </JSCodeStyleSettings>
