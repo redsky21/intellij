@@ -202,6 +202,10 @@
           <option name="url" value="http://165.244.98.72:9810" />
           <option name="userName" value="a68050" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://165.244.98.72:9810/nxgpdm/nxap-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\mywork" />
