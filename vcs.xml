@@ -183,7 +183,27 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Readian/RAP.git" />
+          <option name="url" value="https://github.com/redsky21/react-fiori1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/redsky21/odata.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/redsky21/ui5-typescript-ex.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://165.244.98.72:9810/nxgpdm/nxap.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://165.244.98.72:9810" />
+          <option name="userName" value="a68050" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://165.244.98.72:9810/nxgpdm/nxap-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

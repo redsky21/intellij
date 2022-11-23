@@ -2,5 +2,6 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/b36fadae_mybatis-3-mapper.dtd" />
     <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
+    <ignored-resource url="sap.m" />
   </component>
 </application>

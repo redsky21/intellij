@@ -21,5 +21,26 @@
       <jdbc-url>jdbc:sap://redsky22.duckdns.org:39015/?databaseName=HXE</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="영업_PROD_MGR" uuid="8fff2b16-9e3d-4612-b68e-b1a0306d5d27">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://prod-db-nep-sal.lge.com:3310</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="영업_DEV_MGR" uuid="62ce3d4a-39be-4e0e-8f2a-4dd27b20a439">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://dev-db1-nep-sal.lge.com:3310/espsald</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="영업_QA_MGR" uuid="126fa632-8c36-438d-9013-c08d541ba268">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://qa-db-nep-sal.lge.com:3310/espsalq</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
